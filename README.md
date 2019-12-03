@@ -20,8 +20,6 @@ See the [presentation](https://docs.google.com/presentation/d/1guZte2N5jead28mWM
 We sourced our data from a complete data set via Kaggle.com based on a viticultural [study](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) from 2009.
 
 ### How to use this Repo
-The main analysis is in red_wine_quality_marco.ipynb
+The main analysis is in mod_4_notebook.ipynb
 
 You can find our presentation is labeled "Presentation.pptx"
-
-You can find our code with helper functions and extra cleaning in ____
