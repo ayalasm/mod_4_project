@@ -14,7 +14,7 @@ Dave Bletsch [(github)](https://github.com/davebletsch)
 ### Background
 This is our third Flatiron School project (NYC Data Science), for module 4 - statistical modeling with linear regression.
 
-See the [presentation](https://docs.google.com/presentation/d/1guZte2N5jead28mWM0vNwVgsPdDVIoYIegC3ZYloIdU/edit?usp=sharing) and conclusions on Google Slides or view the pdf in our repository.
+See the [presentation](https://docs.google.com/presentation/d/1guZte2N5jead28mWM0vNwVgsPdDVIoYIegC3ZYloIdU/edit?usp=sharing) and conclusions on Google Slides or view the ppt file in our repository.
 
 ### Data
 We sourced our data from a complete data set via Kaggle.com based on a viticultural [study](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) from 2009.
